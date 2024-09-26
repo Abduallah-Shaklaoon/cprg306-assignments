@@ -1,5 +1,16 @@
+import ItemList from "./item-list";
+
 export default function Page(){
-    let dog2 ={
+    return(
+        <main>
+            <h1>Week 3 Assignment / Shopping List</h1>
+            <ItemList/>
+            
+        </main>
+    );
+}
+
+/*    let dog2 ={
         name: "Buddy",
         breed: "Golden Retriever",
         age: 5,
@@ -32,5 +43,4 @@ export default function Page(){
                 <p>Weight: {dog3.weight}</p>
             </div>
         </div>
-    );
-}
+    );*/
