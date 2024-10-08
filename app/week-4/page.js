@@ -1,4 +1,4 @@
-import Counter from './counter.js';
+import Counter from './new-item.js';
 
 export default function Page() {
     return (
