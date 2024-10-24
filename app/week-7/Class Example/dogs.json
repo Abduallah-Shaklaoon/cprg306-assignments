@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Dog", "description": "Doggo", "imageUrl": "/d4.jpg" },
+    { "id": 2, "name": "Arf", "description": "fluffy", "imageUrl": "/d5.jpg" },
+    { "id": 3, "name": "Rex", "description": "not a cat", "imageUrl": "/d6.jpg" },
+    { "id": 4, "name": "Bella", "description": "cute", "imageUrl": "/d3.jpg" }
+]
